@@ -1,0 +1,14 @@
+2026/04/19-00:34:10.318 1068 Reusing MANIFEST C:\Users\prakh\Desktop\CodeXbunnY\GFG_Solver\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-00:34:10.368 1068 Recovering log #69
+2026/04/19-00:34:10.368 1068 Level-0 table #72: started
+2026/04/19-00:34:10.384 1068 Level-0 table #72: 14342 bytes OK
+2026/04/19-00:34:10.403 1068 Delete type=0 #69
+2026/04/19-00:34:10.405 19f8 Compacting 4@0 + 1@1 files
+2026/04/19-00:34:10.434 19f8 Generated table #74@0: 18 keys, 4434 bytes
+2026/04/19-00:34:10.434 19f8 Compacted 4@0 + 1@1 files => 4434 bytes
+2026/04/19-00:34:10.437 19f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/19-00:34:10.441 19f8 Delete type=2 #62
+2026/04/19-00:34:10.458 19f8 Delete type=2 #64
+2026/04/19-00:34:10.459 19f8 Delete type=2 #68
+2026/04/19-00:34:10.463 19f8 Delete type=2 #70
+2026/04/19-00:34:10.465 19f8 Delete type=2 #72
