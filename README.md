@@ -38,7 +38,7 @@
 ```bash
 pip install selenium undetected-chromedriver openai python-dotenv webdriver-manager
 
-### 2. Setup API Key
+ 2. Setup API Key
 
 - Sign up at https://groq.com  
 - Create a `.env` file:
